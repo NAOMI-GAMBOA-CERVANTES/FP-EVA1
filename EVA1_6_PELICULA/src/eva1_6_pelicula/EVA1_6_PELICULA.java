@@ -30,7 +30,7 @@ public class EVA1_6_PELICULA {
         //Add import for java.util.Scanner
         captu = new Scanner(System.in);//creamos la herramienta
         
-        //HAY QUE INDICAR QUE INDICARLE AL USUARIO QUE CAPTURAR
+        //HAY QUE INDICARLE AL USUARIO QUE CAPTURAR
         System.out.println("Introduce el nombre de la pelicula: ");
         nombre = captu.nextLine();
         System.out.println("Introduce el genero de la pelicula: ");
